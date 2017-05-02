@@ -1,0 +1,14 @@
+{
+  "name": "behaves",
+  "version": "1.0.0",
+  "main": "lib/behavior.js",
+  "author": "Clément Pasquier",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.0.4"
+  },
+  "scripts": {
+    "test": "lab -vcCD --coverage-path ./lib"
+  }
+}
