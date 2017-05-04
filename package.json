@@ -1,6 +1,6 @@
 {
   "name": "behaves",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/behavior.js",
   "author": "Clément Pasquier",
   "license": "GPL-3.0",

@@ -19,6 +19,6 @@ const Z = (state, behavior) => {
   };
 };
 
-Z.behaviors = [A, B];
+Z.behavior = [A, B];
 
 module.exports = Z;

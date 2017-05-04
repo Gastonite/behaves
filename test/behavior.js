@@ -92,11 +92,11 @@ describe('BehaviorFactory', () => {
       'BEFORE C',
       'BEFORE A',
       'BEFORE B',
-      'AFTER B',
-      'AFTER A',
-      'AFTER C',
-      'AFTER D',
       'AFTER Z',
+      'AFTER D',
+      'AFTER C',
+      'AFTER A',
+      'AFTER B',
     ]);
 
     done();

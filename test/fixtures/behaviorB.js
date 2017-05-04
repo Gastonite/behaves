@@ -18,6 +18,6 @@ const B = (state, behavior) => {
   };
 };
 
-B.behaviors = [C];
+B.behavior = [C];
 
 module.exports = B;
